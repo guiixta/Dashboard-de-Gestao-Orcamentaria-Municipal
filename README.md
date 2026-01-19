@@ -28,15 +28,13 @@ O painel está dividido em visões estratégicas:
 
 ## 📷 Demonstração
 
-*(Dica: Substitua os nomes dos arquivos abaixo pelos links das imagens após subir no GitHub)*
-
 | Home | Execução de Despesas |
 | :---: | :---: |
-| ![Preview 1](./assets/imagem%1.png) | ![Preview 2](./assets/imagem%2.png) |
+| ![Preview 1](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%201.png) | ![Preview 2](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%202.png) |
 
 | Análise de Receitas | Detalhamento Técnico |
 | :---: | :---: |
-| ![Preview 3](./assets/imagem%3.png) | ![Preview 4](./assets/imagem%4.png) |
+| ![Preview 3](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%203.png) | ![Preview 4](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%204.png) |
 
 ---
 
@@ -56,7 +54,7 @@ O painel está dividido em visões estratégicas:
 
 ## 👤 Autor
 
-**Seu Nome**
+**Guilherme Ferreira (guiixta)**
 * LinkedIn: [Ver LinkedIn](https://www.linkedin.com/in/guilherme-ferreira-2b9a302a8/)
 * Portfólio: [Ver portfólio](https://portfolio-guilherme-woad.vercel.app/)
 
