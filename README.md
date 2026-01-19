@@ -30,11 +30,11 @@ O painel está dividido em visões estratégicas:
 
 | Home | Execução de Despesas |
 | :---: | :---: |
-| ![Preview 1](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%201.png) | ![Preview 2](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%202.png) |
+| ![Preview 1](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%201.png) | ![Preview 2](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%204.png) |
 
 | Análise de Receitas | Detalhamento Técnico |
 | :---: | :---: |
-| ![Preview 3](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%203.png) | ![Preview 4](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%204.png) |
+| ![Preview 3](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%203.png) | ![Preview 4](https://github.com/guiixta/Dashboard-de-Gestao-Orcamentaria-Municipal/blob/main/assets/imagem%202.png) |
 
 ---
 
